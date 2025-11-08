@@ -38,13 +38,17 @@ The dataset includes student responses to social media use and lifestyle questio
 | # | Question | 
 |---|-----------|
 |1. | Does higher social media usage correlate with lower sleep hours?
+
 <img width="666" height="380" alt="image" src="https://github.com/user-attachments/assets/cb46ffb5-c06b-4d77-a3df-cf6a9cbb2e65" />
+
+
 📉 The scatterplot shows a downward trend → students who use social media more hours per day tend to sleep less.
 
 | #  | Question |
 |--- |-----------|
 | 2. | What is the highest addiction score by platform?
-<img width="817" height="425" alt="image" src="https://github.com/user-attachments/assets/d7ac4a5a-3fc7-47f8-8d61-1c0b3355832b" />
+
+<img width="796" height="325" alt="image" src="https://github.com/user-attachments/assets/6c06f63c-d415-4423-8d8b-5077c789dc28" />
 
 
 **Highest Median Addiction:** Instagram and Snapchat show the highest median addiction levels, with the line inside the box around 8.0.
@@ -117,10 +121,12 @@ Though there's some differences, the conflict score is rather low which indicate
 
 
 
-<img width="578" height="31" alt="image" src="https://github.com/user-attachments/assets/53a6695d-bbea-4e94-89c3-5f919c48d420" />
+<img width="495" height="115" alt="image" src="https://github.com/user-attachments/assets/c53280e6-5478-42c8-84d3-2812d3ecbfde" />
 
 
 Based on the pivot table, more students said yes. So heavier usage is linked with poorer performance.
+
+
 
 ## 💡 Conclusions
 - Balancing social media use is critical for students’ mental and academic well-being.
